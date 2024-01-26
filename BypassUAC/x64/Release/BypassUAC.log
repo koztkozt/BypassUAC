@@ -1,0 +1,7 @@
+﻿  BypassUAC.cpp
+C:\Users\User\Downloads\rundll32\BypassUAC\BypassUAC\BypassUAC.cpp(440,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 5 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  BypassUAC.vcxproj -> C:\Users\User\Downloads\rundll32\BypassUAC\x64\Release\BypassUAC.exe
